@@ -1,0 +1,11 @@
+Leaderboard site
+	ranking system in the guild
+	reward system
+	learn about web development
+Automated meeting login system
+	to support leaderboard potentially
+	comp that scans qr codes to log people in
+Club forum
+	unique way of communication
+Club blog
+	updates instead of getting annoying emails
